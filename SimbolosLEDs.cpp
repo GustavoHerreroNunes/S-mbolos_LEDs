@@ -1,10 +1,10 @@
-/* Este pequenbo código tem como objetivo verificar se um botão foi precionado
+/* Este pequenbo codigo tem como objetivo verificar se um botaoo foi precionado
 *  , se for a primeira vez ele deverá sinalizar com os LEDs uma letra X, se for
 *  a segunda vez dinalizará um H, e depois continuara a ordem do início
 */
 
 
-int x =0;//Variavel para verificar qual será a proxima letra(X ou H);
+int x =0;//Variavel para verificar qual sera� a proxima letra(X ou H);
 
 void setup(){
   
